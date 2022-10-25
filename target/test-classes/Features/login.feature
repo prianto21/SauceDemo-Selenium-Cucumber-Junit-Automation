@@ -1,7 +1,7 @@
 Feature: login test saucedemo
 Scenario: login success on saucedemo
 Given Open web url "https://www.saucedemo.com/"
-And input username "standard_user" and password "secret_sauce2"
+And input username "standard_user" and password "secret_sauce3"
 When click login button
 Then Should success login and redirect to homepage  
 
