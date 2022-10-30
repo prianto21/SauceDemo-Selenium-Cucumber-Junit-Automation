@@ -1,2 +1,4 @@
 /home/ancient/eclipse-workspace/Cucumber-project-automation/src/test/java/steps/loginStep.java
 /home/ancient/eclipse-workspace/Cucumber-project-automation/src/test/java/steps/TestRunner.java
+/home/ancient/eclipse-workspace/Cucumber-project-automation/src/test/java/steps/logoutStep.java
+/home/ancient/eclipse-workspace/Cucumber-project-automation/src/test/java/steps/ShoppingCartStep.java

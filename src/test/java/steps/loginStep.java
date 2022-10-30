@@ -13,7 +13,7 @@ import junit.framework.Assert;
 
 public class loginStep {
 
-	WebDriver driver;
+	WebDriver driver=null;
 
 	@Given("Open web url {string}")
 	public void open_web_url(String url) {

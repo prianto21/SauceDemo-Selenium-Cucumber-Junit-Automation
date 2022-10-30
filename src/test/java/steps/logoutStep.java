@@ -11,7 +11,7 @@ import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class logoutStep {
-	WebDriver driver;
+	WebDriver driver=null;
 
 	@Given("Open Web url {string}")
 	public void open_web_url(String url) {

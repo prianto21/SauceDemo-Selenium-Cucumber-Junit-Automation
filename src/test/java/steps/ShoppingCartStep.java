@@ -11,7 +11,7 @@ import io.cucumber.java.en.When;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ShoppingCartStep {
-	WebDriver driver;
+	WebDriver driver=null;
 	
 	@Given("Open webb url {string}")
 	public void open_webb_url(String url) {
